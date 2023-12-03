@@ -1,14 +1,14 @@
 .LeftDiv {
-  left: 5%;
-  width: 40%;
-  height: 40%;
+  left: 4%;
+  width: 25%;
+  height: 35%;
   border: 1px solid black;
-  display: block;
+  display: inline-block;
 }
 .RightDiv {
-  right: 5%
-  width: 40%
-  height 40%;
+  right: 4%
+  width: 25%
+  height 35%;
   border: 1px solid black;
-  display: block;
+  display: inline-block;
 }
