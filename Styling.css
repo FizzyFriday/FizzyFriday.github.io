@@ -1,14 +1,7 @@
-.LeftDiv {
+.GameBox {
   left: 4%;
   width: 25%;
   height: 35%;
-  border: 1px solid black;
-  display: inline-block;
-}
-.RightDiv {
-  right: 4%
-  width: 25%
-  height 35%;
   border: 1px solid black;
   display: inline-block;
 }
