@@ -3,10 +3,12 @@
   width: 40%;
   height: 40%;
   border: 1px solid black;
+  display: block;
 }
 .RightDiv {
   right: 5%
   width: 40%
   height 40%;
   border: 1px solid black;
+  display: block;
 }
