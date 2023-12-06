@@ -1,4 +1,4 @@
 div {
   border: 1px solid black;
-  display: inline;
+  display: inline-block;
 }
