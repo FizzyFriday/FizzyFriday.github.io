@@ -1,3 +1,4 @@
+console.log("Running")
 const height = document.body.offsetHeight, width = document.body.offsetWidth;
 console.log(height);
 console.log(width);
