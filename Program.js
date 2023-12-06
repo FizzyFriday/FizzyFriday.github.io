@@ -1,4 +1,7 @@
 const height = document.body.offsetHeight, width = document.body.offsetWidth;
+console.log(height);
+console.log(width);
+
 
 var div = document.getElementById('hi');
 var divs = div.getElementsByTagName('div');
