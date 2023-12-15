@@ -1,9 +1,8 @@
 const height = document.body.offsetHeight, width = document.body.offsetWidth;
-const AllGames = ["Game1Name", "Game2Name", "Game3Name"];
 
 for (let i = 0; i < AllGames.length; i++)
 {
-  var div = document.getElementById(`${AllGames[i]}`);
+  var div = document.getElementById(`Div${i}`);
   div.style.left = `${height*0.03}px`;
   div.style.right = `${height*0.03}px`;
   div.style.width = `${height*0.2933}px`;
