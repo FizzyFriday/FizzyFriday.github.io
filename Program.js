@@ -1,5 +1,5 @@
 const height = document.body.offsetHeight, width = document.body.offsetWidth;
-const AllGames = ["Game1Name", "Game2Name", "Empty"];
+const AllGames = ["Game1Name", "Game2Name", "Game3Name"];
 
 for (let i = 0; i < AllGames.length; i++)
 {
