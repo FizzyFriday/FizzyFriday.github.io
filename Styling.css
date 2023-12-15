@@ -3,3 +3,9 @@ div {
   display: inline-block;
   text-align: center;
 }
+
+.Title {
+  border: 0px solid black;
+  display: block;
+  text-align: left;
+}
