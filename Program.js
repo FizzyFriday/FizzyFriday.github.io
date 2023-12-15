@@ -8,4 +8,5 @@ for (let i = 0; i < AllGames.length; i++)
   div.style.right = `${height*0.03}px`;
   div.style.width = `${height*0.2933}px`;
   div.style.height = `${height*0.35}px`;
+  div.style.marginBottom = "20px";
 }
