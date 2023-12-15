@@ -10,3 +10,5 @@ for (let i = 0; i < AllGames.length; i++)
   div.style.height = `${height*0.35}px`;
   div.style.marginBottom = "20px";
 }
+console.log(height);
+console.log(width);
