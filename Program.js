@@ -1,6 +1,6 @@
 const height = document.body.offsetHeight, width = document.body.offsetWidth;
 
-for (let i = 0; i < AllGames.length; i++)
+for (let i = 0; i < 3; i++)
 {
   var div = document.getElementById(`Div${i}`);
   div.style.left = `${height*0.03}px`;
