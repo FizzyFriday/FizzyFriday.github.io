@@ -1,3 +1,4 @@
+console.log("Working");
 const height = document.body.offsetHeight, width = document.body.offsetWidth;
 
 for (let i = 0; i < 3; i++)
