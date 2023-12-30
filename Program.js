@@ -2,7 +2,7 @@ const height = document.body.offsetHeight, width = document.body.offsetWidth;
 
 for (let i = 1; i < 4; i++)
 {
-  console.log(`${Div${i]}');
+  console.log(`${Div${i}');
   var div = document.getElementById(`Div${i}`);
   div.style.left = `${height*0.03}px`;
   div.style.right = `${height*0.03}px`;
