@@ -1,7 +1,6 @@
-console.log("Working");
 const height = document.body.offsetHeight, width = document.body.offsetWidth;
 
-for (let i = 0; i < 3; i++)
+for (let i = 1; i < 4; i++)
 {
   console.log(`${Div${i]}');
   var div = document.getElementById(`Div${i}`);
@@ -11,5 +10,3 @@ for (let i = 0; i < 3; i++)
   div.style.height = `${height*0.35}px`;
   div.style.marginBottom = "20px";
 }
-console.log(height);
-console.log(width);
