@@ -9,7 +9,7 @@ while (true)
   var div = document.getElementById(`Div${i}`);
   div.style.left = `${width*0.03}px`;
   div.style.right = `${width*0.03}px`;
-  div.style.width = `${width*0.18}px`;
+  div.style.width = `${width*0.19}px`;
   div.style.height = `${height*0.45}px`;
   div.style.marginBottom = "20px";
   i++;
