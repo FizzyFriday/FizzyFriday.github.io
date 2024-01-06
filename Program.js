@@ -1,7 +1,4 @@
 const height = document.body.offsetHeight, width = document.body.offsetWidth
-console.log(width*0.19);
-
-
 
 var i = 1;
 while (true)
