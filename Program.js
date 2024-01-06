@@ -3,10 +3,8 @@ const height = document.body.offsetHeight, width = document.body.offsetWidth
 var i = 1;
 while (true)
 {
-  try {var div = document.getElementById(`Div${i}`);
-  catch {
-    break;
-  }
+  try {var div = document.getElementById(`Div${i}`);}
+  catch {break;}
 
   var div = document.getElementById(`Div${i}`);
   div.style.left = `${width*0.03}px`;
