@@ -1,5 +1,5 @@
 const height = document.body.offsetHeight, width = document.body.offsetWidth
-console.log(width*0.2933);
+console.log(width*0.19);
 
 
 
