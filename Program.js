@@ -4,7 +4,9 @@ var i = 1;
 while (true)
 {
   try {var div = document.getElementById(`Div${i}`);
-  catch {break;}
+  catch {
+    break;
+  }
 
   var div = document.getElementById(`Div${i}`);
   div.style.left = `${width*0.03}px`;
