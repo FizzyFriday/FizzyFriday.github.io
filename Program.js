@@ -1,4 +1,4 @@
-const height = document.body.offsetHeight, width = document.body.offsetWidth
+const height = document.body.offsetHeight, width = document.body.offsetWidth;
 
 var i = 1;
 while (true)
