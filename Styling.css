@@ -4,9 +4,9 @@ body {
 
 .GameDiv {
   border: 1px solid black;
-  display: inline-block;
+  display: block;
   text-align: center;
-  height: 400px;
+  height: 500px;
   width: 200px;
   background-color: white;
 }
